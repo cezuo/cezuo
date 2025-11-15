@@ -45,7 +45,7 @@ I'm a **full-stack engineer and Computer Engineering student** who loves buildin
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <a href="https://my-portfolio-6j7k17bf9-sebastianwagnac-1363s-projects.vercel.app/" target="_blank">
+  <a href="https://6917f91e679a90f7e007d71b--sebastianwagnacportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
