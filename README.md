@@ -57,8 +57,8 @@ I'm a **full-stack engineer and Computer Engineering student** who loves buildin
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=false&border_radius=10" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=false&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cezuo&show_icons=true&theme=dracula&hide_border=false&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cezuo&layout=compact&theme=dracula&hide_border=false&border_radius=10" height="165" />
   
 </div>
 
@@ -67,7 +67,7 @@ I'm a **full-stack engineer and Computer Engineering student** who loves buildin
 ## 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=dracula&hide_border=true" height="250" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cezuo&theme=dracula&hide_border=true" height="250" />
 </div>
 
 ---
