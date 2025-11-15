@@ -41,7 +41,7 @@ I'm a **full-stack engineer and Computer Engineering student** who loves buildin
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastianwagnac1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
